@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**sarthak3203/sarthak3203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer building applied AI systems and production web applications.
 
-Here are some ideas to get you started:
+I work primarily with **Node.js, Python/FastAPI, PostgreSQL, Redis, and agentic AI technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work On
+
+- 🤖 Applied AI systems with **LangGraph, RAG, MCP, and AI observability**
+- ⚙️ Backend services, REST APIs, authentication, and data-driven applications
+- 🔍 Reliable AI workflows with **guardrails, human-in-the-loop, and observability**
+- ☁️ Containerized applications and cloud deployment
+
+### Featured Projects
+
+- **[ShopSense](https://github.com/sarthak3203/shopsense)** — Multi-agent AI customer support system with RAG, MCP, guardrails, and observability.
+- **[Log Drain](https://github.com/sarthak3203/log_drain)** — Log observability platform with hybrid search, AI agents, Redis-based ingestion, and AWS deployment.
+
+### Links
+
+- 🌐 [Portfolio](https://sarthaksharma.site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-s-776386231/)
+- 📧 sarthak3203@gmail.com
